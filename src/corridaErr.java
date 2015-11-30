@@ -35,8 +35,7 @@ public class corridaErr {
         }finally{
             JOptionPane.showMessageDialog(null,
                     "El resultado es: " + resu);
-        }
-        
+        }        
         
     }//fin del metodo principal
 }//fin de la clase de prueba de errores.
