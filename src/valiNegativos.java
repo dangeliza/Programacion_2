@@ -3,8 +3,4 @@ class valiNegativos{
         if ( param < 0 )
             throw new miExcepcion("Número negativo");
     }
-
-    
-
 }
-
